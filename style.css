@@ -156,8 +156,8 @@ header{
 
 .tri-img img{
     position: absolute;
-    top: 10rem;
-    right: 35rem;
+    top: 8.5rem;
+    right: 38rem;
     width: 15rem;
 }
 
@@ -171,10 +171,10 @@ header{
     background-color: #f8f9fa;   
     width: 79%;
     height: 11rem;
-    margin-left: 8rem;
+    /* margin-left: 8rem; */
     margin-top: 2rem;
+    margin: 0 auto;
     border-radius: 1.2rem;
-    /* #f8f9fa */
 }
 
 .Flexsection .flex1{
